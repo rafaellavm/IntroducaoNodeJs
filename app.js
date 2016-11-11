@@ -1,5 +1,5 @@
 /*
-//Aula 02
+//---------------------------- Aula 02 ----------------------------
 var nome = "Rafaela";
 
 function exibirMensagem(nome){
@@ -9,10 +9,12 @@ function exibirMensagem(nome){
 
 exibirMensagem(nome);*/
 
-//Aula 03
+//---------------------------- Aula 03 ----------------------------
 //no site do npm vc conseuge ver todos os pacotes que tem pra instalar e as explicações deles.
 //pra verificar a versão do npm: 
 //npm -v
+//pra instalar o pacote:
+//npm instal <pacote>
 
 
 //faz referência ao pacote instalado:
